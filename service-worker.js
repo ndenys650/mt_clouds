@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mt_clouds/precache-manifest.b22c388a8bd29b62dc0bd2ad1acf89ea.js"
+  "/mt_clouds/precache-manifest.6d56f9bc9d62069aacf4193aba502ba5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "clouds"});
