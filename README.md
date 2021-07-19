@@ -1,2 +1,2 @@
 # mt_clouds
-taking my google sheets clouds data and putting it on Vue
+taking my google sheet ichimoku cloud strategy data and putting it on a Vue front end
